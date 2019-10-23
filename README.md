@@ -6,22 +6,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+POST IMPORTING this project run below NPM commands
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+npm install bootstrap --save
 
-## Running end-to-end tests
+npm install --save @angular/router
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+npm install --save font-awesome angular-font-awesome
 
-## Further help
+npm install --save @angular/animations
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+npm install --save web-animations-js
+
+npm install --save @angular/material @angular/cdk
+
+# if anything fails simply comment the same in app.module.js file and run the same. 
